@@ -2,6 +2,13 @@
   {
     "vendor": "Intel",
     "type": "CPU",
+    "family": "MIC",
+    "name": "Knights_Landing",
+    "url": "https://misdake.github.io/ChipAnnotationData4/Knights_Landing"
+  },
+  {
+    "vendor": "Intel",
+    "type": "CPU",
     "family": "Skylake",
     "name": "Skylake_XCC",
     "url": "https://misdake.github.io/ChipAnnotationData4/Skylake_XCC"
