@@ -19,5 +19,12 @@
     "family": "Skylake",
     "name": "Skylake_XCC",
     "url": "https://misdake.github.io/ChipAnnotationData4/Skylake_XCC"
+  },
+  {
+    "vendor": "Microsoft",
+    "type": "",
+    "family": "",
+    "name": "Xbox_One_X",
+    "url": "https://misdake.github.io/ChipAnnotationData4/Xbox_One_X"
   }
 ]
