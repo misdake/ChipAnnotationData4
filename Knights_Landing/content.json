@@ -1,7 +1,7 @@
 {
   "vendor": "Intel",
-  "type": "CPU",
-  "family": "MIC",
+  "type": "MIC",
+  "family": "",
   "name": "Knights_Landing",
   "githubRepo": "misdake/ChipAnnotationData4",
   "githubIssueId": 2,
