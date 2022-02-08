@@ -23,9 +23,10 @@
   },
   {
     "vendor": "Microsoft",
-    "type": "",
-    "family": "",
+    "type": "Console",
+    "family": "XboxOne",
     "name": "Xbox_One_X",
+    "listname": "Xbox One X",
     "url": "https://misdake.github.io/ChipAnnotationData4/Xbox_One_X"
   }
 ]
