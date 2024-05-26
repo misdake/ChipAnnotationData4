@@ -8,11 +8,11 @@
   },
   {
     "vendor": "Intel",
-    "type": "MIC",
-    "family": "",
-    "name": "Knights_Landing",
-    "listname": "Knights Landing",
-    "url": "https://misdake.github.io/ChipAnnotationData4/Knights_Landing"
+    "type": "CPU",
+    "family": "IvyBridge",
+    "name": "IvyBridgeEX",
+    "listname": "IvyBridgeEX",
+    "url": "https://misdake.github.io/ChipAnnotationData4/IvyBridgeEX"
   },
   {
     "vendor": "Intel",
@@ -22,11 +22,27 @@
     "url": "https://misdake.github.io/ChipAnnotationData4/Skylake_XCC"
   },
   {
+    "vendor": "Intel",
+    "type": "MIC",
+    "family": "",
+    "name": "Knights_Landing",
+    "listname": "Knights Landing",
+    "url": "https://misdake.github.io/ChipAnnotationData4/Knights_Landing"
+  },
+  {
     "vendor": "Microsoft",
     "type": "Console",
     "family": "XboxOne",
     "name": "Xbox_One_X",
     "listname": "Xbox One X",
     "url": "https://misdake.github.io/ChipAnnotationData4/Xbox_One_X"
+  },
+  {
+    "vendor": "nVIDIA",
+    "type": "GPU",
+    "family": "Ampere",
+    "name": "GA106",
+    "listname": "GA106",
+    "url": "https://misdake.github.io/ChipAnnotationData4/GA106"
   }
 ]

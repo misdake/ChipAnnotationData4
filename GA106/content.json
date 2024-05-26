@@ -1,0 +1,43 @@
+{
+  "vendor": "nVIDIA",
+  "type": "GPU",
+  "family": "Ampere",
+  "name": "GA106",
+  "githubRepo": "misdake/ChipAnnotationData4",
+  "githubIssueId": 5,
+  "source": "https://www.bilibili.com/opus/923486696743370772",
+  "createTime": "May 26, 2024 2:05:28 PM",
+  "width": 4945,
+  "height": 3630,
+  "tileSize": 512,
+  "maxLevel": 4,
+  "levels": [
+    {
+      "level": 0,
+      "xMax": 10,
+      "yMax": 8
+    },
+    {
+      "level": 1,
+      "xMax": 5,
+      "yMax": 4
+    },
+    {
+      "level": 2,
+      "xMax": 3,
+      "yMax": 2
+    },
+    {
+      "level": 3,
+      "xMax": 2,
+      "yMax": 1
+    },
+    {
+      "level": 4,
+      "xMax": 1,
+      "yMax": 1
+    }
+  ],
+  "widthMillimeter": 19.39,
+  "heightMillimeter": 14.234
+}
