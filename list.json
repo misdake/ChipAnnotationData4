@@ -11,15 +11,16 @@
     "type": "CPU",
     "family": "IvyBridge",
     "name": "IvyBridgeEX",
-    "listname": "IvyBridgeEX",
-    "url": "https://misdake.github.io/ChipAnnotationData4/IvyBridgeEX"
+    "url": "https://misdake.github.io/ChipAnnotationData4/IvyBridgeEX",
+    "listname": "IvyBridge-EX"
   },
   {
     "vendor": "Intel",
     "type": "CPU",
     "family": "Skylake",
     "name": "Skylake_XCC",
-    "url": "https://misdake.github.io/ChipAnnotationData4/Skylake_XCC"
+    "url": "https://misdake.github.io/ChipAnnotationData4/Skylake_XCC",
+    "listname": "Skylake XCC"
   },
   {
     "vendor": "Intel",
@@ -42,7 +43,6 @@
     "type": "GPU",
     "family": "Ampere",
     "name": "GA106",
-    "listname": "GA106",
     "url": "https://misdake.github.io/ChipAnnotationData4/GA106"
   }
 ]
